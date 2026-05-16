@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════
-     BANNER — стиль твоего портфолио
+     BANNER — твой стиль
      ═══════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:4a148c,100:311b92&height=200&section=header&text=AUBEIG&fontSize=60&fontColor=e8d5ff&fontAlignY=40&desc=Fullstack%20Vibe%20Coder%20%E2%80%A2%20Python%20%E2%86%92%20Cython%20%E2%86%92%20Go&descAlignY=65&descSize=16&descColor=b388ff&borderRadius=24" width="100%" />
 
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════
-     АВАТАР — как в твоём портфолио, большая, с glow
+     АВАТАР — как в твоём портфолио
      ═══════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/aubeig/Aubeig/main/IMG_20260516_163751_577.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #7000FF; box-shadow: 0 0 50px #8A2BE2, 0 0 100px rgba(138, 43, 226, 0.3); padding: 4px;" />
 
@@ -20,7 +20,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════
-     СОЦСЕТИ — иконки как в твоём портфолио (по центру)
+     СОЦСЕТИ — иконки как в твоём портфолио
      ═══════════════════════════════════════════════════════ -->
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
 
@@ -43,7 +43,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     STATUS WINDOW — карточка как в Solo Leveling
+     STATUS WINDOW
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -61,7 +61,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     SKILL TRACKER — GitHub Stats в фиолетовом
+     SKILL TRACKER — GitHub Stats
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -74,11 +74,6 @@
 
 <br><br>
 
-<!-- Activity Graph — ЗАМЕНА ЗМЕЙКЕ, фиолетовый -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aubeig&bg_color=0d1117&color=e0b0ff&line=8A2BE2&point=b388ff&area=true&area_color=8A2BE2&hide_border=true&radius=16&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubeig&theme=midnight-purple&hide_border=true&background=0d1117&stroke=e0b0ff&ring=8A2BE2&fire=ff6b6b&currStreakLabel=e0b0ff&sideLabels=b388ff&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666&border_radius=24" width="80%" />
 
 </div>
@@ -86,41 +81,22 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     EQUIPPED SKILLS — иконки в фиолетовом
+     EQUIPPED SKILLS — ФИОЛЕТОВЫЕ ИКОНКИ
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🛡️ EQUIPPED SKILLS
 
-<!-- Фиолетовые иконки через CSS filter -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="filter: drop-shadow(0 0 10px #8A2BE2);" />
-
-</div>
+<!-- Фиолетовые иконки через skillicons с темой -->
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,react,nextjs,nodejs,html,css,tailwind,git,docker,linux,vscode,postgresql,mongodb&theme=dark&perline=8" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     ACHIEVEMENTS — трофеи
+     ACHIEVEMENTS
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -134,18 +110,18 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     DAILY QUEST LOG — ЗАМЕНА ЗМЕЙКЕ: 3D Contribution Graph
+     DAILY QUEST LOG — ФИОЛЕТОВАЯ ЗМЕЙКА
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🐍 DAILY QUEST LOG
 
-<!-- 3D Isometric Contribution Graph — фиолетовая альтернатива змейке -->
+<!-- ФИОЛЕТОВАЯ змейка — через Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aubeig/aubeig/output/contribs-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aubeig/aubeig/output/contribs-light.svg" />
-  <img alt="3D GitHub contribution chart" src="https://raw.githubusercontent.com/aubeig/aubeig/output/contribs-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aubeig/aubeig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aubeig/aubeig/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aubeig/aubeig/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -153,7 +129,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     FOOTER — liquid glass стиль
+     FOOTER
      ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
