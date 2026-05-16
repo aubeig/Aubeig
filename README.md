@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════
      АВАТАР
      ═══════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/aubeig/Aubeig/main/IMG_20260516_163751_577.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #7000FF; box-shadow: 0 0 50px #8A2BE2;" />
+<img src="https://raw.githubusercontent.com/aubeig/Aubeig/refs/heads/main/Picsart_26-05-16_18-16-34-064.png" width="180" height="180" style="border-radius: 50%; border: 3px solid #7000FF; box-shadow: 0 0 50px #8A2BE2;" />
 
 <br>
 
