@@ -1,91 +1,191 @@
 <div align="center">
-  
-  <!-- АНИМИРОВАННЫЙ БАННЕР - фиолетовая волна -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:8A2BE2,100:4B0082&height=250&section=header&text=AUBEIG&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Vibe%20Coder%20%7C%20Python%20%E2%86%92%20Cython%20%E2%86%92%20Go&descAlignY=60&descSize=18&descColor=dda0dd" width="100%"/>
 
-  <!-- Печатающийся текст с фиолетовым неоном -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=9370DB&center=true&vCenter=true&width=600&lines=import+cython;from+python+import+speed;package+main;%23+Learning+Go...;Fullstack+Vibe+Coder+%F0%9F%94%A5;Build+fast.+Break+nothing." alt="Typing SVG" />
-  </a>
+<!-- ═══════════════════════════════════════
+     SOLO LEVELING STYLE GITHUB PROFILE
+     Dark Purple Neon Aesthetic
+     ═══════════════════════════════════════ -->
 
-  <br><br>
+<!-- ШАПКА С КАСТОМНЫМ ШРИФТОМ (через SVG) -->
+<<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a0b2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4a148c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0b2e;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="120" fill="url(#grad1)" rx="15"/>
+  <text x="50%" y="50%" font-family="Courier New, monospace" font-size="42" font-weight="bold" fill="#e0b0ff" text-anchor="middle" dominant-baseline="middle" filter="url(#glow)">AUBEIG</text>
+  <text x="50%" y="75%" font-family="Courier New, monospace" font-size="14" fill="#b388ff" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">SYSTEM INITIALIZED</text>
+</svg>
 
-  <!-- АНИМИРОВАННАЯ ГИФКА - кодерский вайб -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 15px; box-shadow: 0 0 30px #8A2BE2;" />
+<br>
 
-  <br><br>
+<!-- ПЕЧАТАЮЩИЙСЯ ТЕКСТ С НЕОНОВЫМ ЭФФЕКТОМ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=500&lines=class+VibeCoder:;def+__init__(self):;self.lang+%3D+%22Python%22;self.boost+%3D+%22Cython%22;self.learning+%3D+%22Go%22;pass" alt="Typing SVG" />
+</a>
 
-  <!-- Соцсети с фиолетовыми бейджами -->
-  <a href="https://t.me/Aubeig">
-    <img src="https://img.shields.io/badge/Telegram-@Aubeig-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://t.me/bioAub">
-    <img src="https://img.shields.io/badge/Channel-@bioAub-9370DB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://aubeig-interactive-bio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Aubeig-4B0082?style=for-the-badge&logo=render&logoColor=white&labelColor=0d1117" />
-  </a>
+<br><br>
+
+<!-- АВАТАР / ИКОНКА В РАДИАЛЬНОМ СТИЛЕ (если есть фото) -->
+<!-- Можно заменить на свою картинку -->
+<img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="150" height="150" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 20px #8A2BE2, 0 0 40px #4B0082;" />
+
+<br><br>
+
+<!-- СОЦСЕТИ В СТИЛЕ КАРТОЧЕК -->
+<a href="https://t.me/Aubeig">
+  <img src="https://img.shields.io/badge/TELEGRAM-Aubeig-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://t.me/bioAub">
+  <img src="https://img.shields.io/badge/CHANNEL-bioAub-9370DB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://aubeig-interactive-bio.onrender.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Aubeig-4B0082?style=for-the-badge&logo=render&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
 ---
 
-## 🧬 About Me
+<!-- ═══════════════════════════════════════
+     SKILL TRACKER (GitHub Stats в стиле карточек)
+     ═══════════════════════════════════════ -->
 
 <div align="center">
 
-```python
-class Aubeig:
-    def __init__(self):
-        self.role = "Fullstack Vibe Coder"
-        self.main_lang = "Python 🐍"
-        self.speed_boost = "Cython ⚡"  
-        self.learning = "Go 🐹 (just started)"
-        self.vibe = "Build fast, break nothing"
-        self.theme = "Dark Purple 🟣"
-    
-    def current_focus(self):
-        return "Optimizing Python with Cython for max performance"
-    
-    def motto(self):
-        return "Code is poetry, but faster with Cython"
-```
+## ⚡ STATUS WINDOW
+
+| **CLASS** | **Fullstack Vibe Coder** |
+|-----------|-------------------------|
+| **MAIN** | `Python` |
+| **BOOST** | `Cython` |
+| **NEW SKILL** | `Go` |
+| **THEME** | `Dark Purple` |
+
+</div>
 
 ---
 
-⚡ Tech Stack
+<!-- ═══════════════════════════════════════
+     SKILL TRACKER - ГРАФИКИ В СТИЛЕ SOLO LEVELING
+     ═══════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 SKILL TRACKER
+
+<!-- GitHub Stats в стиле радиальных/прямоугольных карточек -->
+<img src="https://github-readme-stats.vercel.app/api?username=Aubeig&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e0b0ff&icon_color=8A2BE2&text_color=b388ff&border_radius=15&custom_title=OVERALL+POWER" height="200" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aubeig&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e0b0ff&text_color=b388ff&border_radius=15&custom_title=LANGUAGE+MASTERY" height="200" />
+
+<br><br>
+
+<!-- STREAK В СТИЛЕ ПРОГРЕСС-БАРА -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aubeig&theme=midnight-purple&hide_border=true&background=0d1117&stroke=e0b0ff&ring=8A2BE2&fire=ff6b6b&currStreakLabel=e0b0ff&sideLabels=b388ff&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666&border_radius=15" width="80%" />
+
+</div>
 
 ---
 
-📊 GitHub Stats (Dark Purple Edition)
+<!-- ═══════════════════════════════════════
+     TECH STACK - ИКОНКИ В СТИЛЕ КАРТОЧЕК
+     ═══════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛡️ EQUIPPED SKILLS
+
+<div style="background: #0d1117; border-radius: 15px; padding: 20px; border: 1px solid #8A2BE2;">
+
+<!-- Python / Cython -->
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://img.shields.io/badge/Cython-8A2BE2?style=flat-square&logo=python&logoColor=white&labelColor=1a0b2e" />
+
+<!-- Go -->
+<img src="https://skillicons.dev/icons?i=go&theme=dark" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a0b2e" />
+
+<br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
+
+<br>
+
+<!-- Backend & Tools -->
+<img src="https://skillicons.dev/icons?i=nodejs,git,docker,linux,vscode,postgresql,mongodb&theme=dark" />
+
+</div>
+
+</div>
 
 ---
 
-🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════
+     TROPHIES - В СТИЛЕ ДОСТИЖЕНИЙ
+     ═══════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aubeig&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=e0b0ff" width="100%" />
+
+</div>
 
 ---
 
-🐍 Contribution Snake (Purple Dark)
+<!-- ═══════════════════════════════════════
+     SNAKE - В СТИЛЕ МИНИ-БОССА
+     ═══════════════════════════════════════ -->
+
+<div align="center">
+
+## 🐍 DAILY QUEST LOG
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aubeig/Aubeig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aubeig/Aubeig/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aubeig/Aubeig/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
-🎯 Current Vibe & Focus
+<!-- ═══════════════════════════════════════
+     FOOTER - НЕОНОВЫЙ КАК В SOLO LEVELING
+     ═══════════════════════════════════════ -->
 
-⚡ Focus	🐍 Python → Cython	🐹 Learning Go	
-Speed	`import cython`	`package main`	
-Goal	Max performance	New language	
-Mood	`cdef inline`	`func main()`	
+<div align="center">
 
----
+<<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8A2BE2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B0082;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="80" fill="url(#grad2)" rx="15" opacity="0.3"/>
+  <text x="50%" y="45%" font-family="Courier New, monospace" font-size="16" fill="#e0b0ff" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">"FROM PYTHON TO CYTHON — SPEED IS POWER"</text>
+  <text x="50%" y="70%" font-family="Courier New, monospace" font-size="12" fill="#b388ff" text-anchor="middle" dominant-baseline="middle">AUBEIG SYSTEM v1.0</text>
+</svg>
 
-🎵 Vibe Coding Playlist
+<br>
 
-"Coding in the dark with purple neon lights"
+<a href="https://t.me/Aubeig">💬 TELEGRAM</a> • 
+<a href="https://t.me/bioAub">📢 CHANNEL</a> • 
+<a href="https://aubeig-interactive-bio.onrender.com/">🌐 PORTFOLIO</a>
 
----
-
-"From Python to Cython — because life is too short for slow code" ⚡
-
-💬 Telegram • 
-📢 Channel • 
-🌐 Portfolio
+</div>
