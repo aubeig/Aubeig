@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- БАННЕР с градиентом -->
+<!-- БАННЕР -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:7000FF,100:311b92&height=200&section=header&text=AUBEIG&fontSize=60&fontColor=e8d5ff&fontAlignY=40&desc=Fullstack%20Vibe%20Coder%20%E2%80%A2%20Python%20%E2%86%92%20Cython%20%E2%86%92%20Go&descAlignY=65&descSize=16&descColor=b388ff" width="100%" />
 
 <br><br>
