@@ -37,7 +37,7 @@
 
 <!-- АВАТАР / ИКОНКА В РАДИАЛЬНОМ СТИЛЕ (если есть фото) -->
 <!-- Можно заменить на свою картинку -->
-<img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="150" height="150" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 20px #8A2BE2, 0 0 40px #4B0082;" />
+<img src="https://raw.githubusercontent.com/aubeig/Aubeig/refs/heads/main/IMG_20260516_163751_577.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 20px #8A2BE2, 0 0 40px #4B0082;" />
 
 <br><br>
 
