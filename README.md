@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- БАННЕР -->
+<!-- БАННЕР с градиентом -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:7000FF,100:311b92&height=200&section=header&text=AUBEIG&fontSize=60&fontColor=e8d5ff&fontAlignY=40&desc=Fullstack%20Vibe%20Coder%20%E2%80%A2%20Python%20%E2%86%92%20Cython%20%E2%86%92%20Go&descAlignY=65&descSize=16&descColor=b388ff" width="100%" />
 
 <br><br>
@@ -15,7 +15,7 @@
 
 <br>
 
-<!-- СОЦСЕТИ иконками -->
+<!-- СОЦСЕТИ -->
 <a href="https://t.me/Aubeig"><img src="https://img.shields.io/badge/-@Aubeig-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://t.me/bioAub"><img src="https://img.shields.io/badge/-@bioAub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://aubeig-interactive-bio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=render&logoColor=white" /></a>
@@ -42,21 +42,21 @@
 
 ## 📊 SKILL TRACKER
 
-<!-- Stats с градиентным фоном -->
-<img src="https://github-readme-stats.vercel.app/api?username=aubeig&show_icons=true&bg_color=45,1a0b2e,4a148c,311b92&title_color=e8d5ff&icon_color=7000FF&text_color=b388ff&border_radius=20" height="200" />
+<!-- Stats с shadow_purple темой -->
+<img src="https://github-readme-stats.vercel.app/api?username=aubeig&show_icons=true&theme=shadow_purple&hide_border=true&border_radius=20" height="210" />
 
-<!-- Donut chart для языков -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubeig&layout=donut&bg_color=45,1a0b2e,4a148c,311b92&title_color=e8d5ff&text_color=b388ff&border_radius=20" height="200" />
+<!-- Языки с shades-of-purple -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubeig&layout=donut&theme=shades-of-purple&hide_border=true&border_radius=20" height="210" />
 
 <br><br>
 
-<!-- Activity Graph — ЗАМЕНА ЗМЕЙКЕ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aubeig&bg_color=0d1117&color=e0b0ff&line=7000FF&point=b388ff&area=true&area_color=7000FF&hide_border=true&radius=16&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
+<!-- Activity Graph фиолетовый -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aubeig&bg_color=0d1117&color=e0b0ff&line=7000FF&point=b388ff&area=true&area_color=7000FF&hide_border=true&radius=16" width="95%" />
 
 <br><br>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aubeig&theme=midnight-purple&hide_border=true&background=0d1117&stroke=e0b0ff&ring=7000FF&fire=ff6b6b&currStreakLabel=e0b0ff" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aubeig&theme=midnight-purple&hide_border=true" width="80%" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 ## 🏆 ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=aubeig&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=aubeig&theme=discord&no-frame=true&column=7" width="100%" />
 
 </div>
 
