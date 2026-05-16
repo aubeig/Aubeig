@@ -10,29 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════
      MD3 AVATAR — твоя аватарка внутри рамки
      ═══════════════════════════════════════════════════════ -->
-<<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="avatarShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="15" flood-color="#8A2BE2" flood-opacity="0.4"/>
-    </filter>
-    <clipPath id="roundClip">
-      <rect x="10" y="10" width="180" height="180" rx="28" ry="28"/>
-    </clipPath>
-  </defs>
-  
-  <!-- MD3 Surface -->
-  <rect x="5" y="5" width="190" height="190" rx="32" ry="32" fill="#1a0b2e" filter="url(#avatarShadow)"/>
-  <rect x="5" y="5" width="190" height="190" rx="32" ry="32" fill="#7c4dff" opacity="0.1"/>
-  
-  <!-- Твоя аватарка -->
-  <image x="10" y="10" width="180" height="180" href="https://raw.githubusercontent.com/aubeig/Aubeig/main/IMG_20260516_163751_577.jpg" clip-path="url(#roundClip)" preserveAspectRatio="xMidYMid slice"/>
-  
-  <!-- Обводка -->
-  <rect x="10" y="10" width="180" height="180" rx="28" ry="28" fill="none" stroke="#8A2BE2" stroke-width="2" opacity="0.5"/>
-  
-  <!-- Статус онлайн -->
-  <circle cx="170" cy="170" r="10" fill="#69f0ae" stroke="#1a0b2e" stroke-width="3"/>
-</svg>
+<img src="https://raw.githubusercontent.com/aubeig/Aubeig/main/IMG_20260516_163751_577.jpg" width="180" height="180" style="border-radius: 28px; border: 2px solid #8A2BE2; box-shadow: 0 0 30px rgba(138, 43, 226, 0.4), 0 8px 32px rgba(0,0,0,0.3);" />
 
 <br><br>
 
@@ -40,13 +18,13 @@
      СОЦСЕТИ — фиолетовые бейджи как в портфолио
      ═══════════════════════════════════════════════════════ -->
 <a href="https://t.me/Aubeig">
-  <img src="https://img.shields.io/badge/Telegram-@Aubeig-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Telegram-@Aubeig-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0b2e" />
 </a>
 <a href="https://t.me/bioAub">
-  <img src="https://img.shields.io/badge/Channel-@bioAub-9370DB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Channel-@bioAub-9370DB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0b2e" />
 </a>
 <a href="https://aubeig-interactive-bio.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Aubeig-4B0082?style=for-the-badge&logo=render&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Portfolio-Aubeig-4B0082?style=for-the-badge&logo=render&logoColor=white&labelColor=1a0b2e" />
 </a>
 
 </div>
